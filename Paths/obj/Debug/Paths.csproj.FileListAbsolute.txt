@@ -1,0 +1,8 @@
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\Paths\bin\Debug\Paths.exe.config
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\Paths\bin\Debug\Paths.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\Paths\bin\Debug\Paths.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\Paths\bin\Debug\Point3D.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\Paths\bin\Debug\Point3D.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\Paths\obj\Debug\Paths.csprojResolveAssemblyReference.cache
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\Paths\obj\Debug\Paths.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\Paths\obj\Debug\Paths.pdb

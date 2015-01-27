@@ -1,0 +1,3 @@
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\Point3D\bin\Debug\Point3D.exe.config
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\Point3D\obj\Debug\Point3D.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\Point3D\obj\Debug\Point3D.pdb

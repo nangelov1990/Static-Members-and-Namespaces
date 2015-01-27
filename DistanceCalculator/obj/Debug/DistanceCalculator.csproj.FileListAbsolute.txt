@@ -1,0 +1,8 @@
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\DistanceCalculator\bin\Debug\DistanceCalculator.exe.config
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\DistanceCalculator\obj\Debug\DistanceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\DistanceCalculator\bin\Debug\DistanceCalculator.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\DistanceCalculator\bin\Debug\DistanceCalculator.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\DistanceCalculator\bin\Debug\Point3D.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\DistanceCalculator\bin\Debug\Point3D.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\DistanceCalculator\obj\Debug\DistanceCalculator.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\DistanceCalculator\obj\Debug\DistanceCalculator.pdb
