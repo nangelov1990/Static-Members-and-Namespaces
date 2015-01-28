@@ -3,7 +3,7 @@
     using System;
     using Point3D.Data;
     using DistanceCalculator.Engine;
-    class DistanceIn3DSpace
+    public static class DistanceIn3DSpace
     {
         static void Main(string[] args)
         {

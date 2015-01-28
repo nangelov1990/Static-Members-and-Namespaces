@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{218F5929-E3CF-4829-AD1A-4F78BDF516A3}</ProjectGuid>
+    <ProjectGuid>{45F5D2D7-6C59-4D11-9DFA-BB113755A521}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DistanceCalculator</RootNamespace>
-    <AssemblyName>DistanceCalculator</AssemblyName>
+    <RootNamespace>HTML_Dispatcher</RootNamespace>
+    <AssemblyName>HTML Dispatcher</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,19 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Engine\CalculatorEngine.cs" />
-    <Compile Include="DistanceIn3DSpace.cs" />
+    <Compile Include="Engine\ElementBuilder.cs" />
+    <Compile Include="Engine\HTMLDispatcher.cs" />
+    <Compile Include="Tester.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="DistanceCalculator.cd" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Point3D\Point3D.csproj">
-      <Project>{46cca0a3-c5c5-48b7-8fe3-466199db0265}</Project>
-      <Name>Point3D</Name>
-    </ProjectReference>
+    <None Include="HTMLDispatcher.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

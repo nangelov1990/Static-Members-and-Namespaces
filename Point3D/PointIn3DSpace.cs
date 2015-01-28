@@ -3,7 +3,7 @@
     using System;
     using Point3D.Data;
 
-    class PointIn3DSpace
+    public static class PointIn3DSpace
     {
         static void Main(string[] args)
         {

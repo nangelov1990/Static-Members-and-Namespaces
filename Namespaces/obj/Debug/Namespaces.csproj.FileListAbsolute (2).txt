@@ -1,0 +1,2 @@
+C:\Users\angelovn\Documents\SoftUni\OOP\Homeworks\Homeworks\2. Static-Members-and-Namespaces-Demos\6. Namespaces\bin\Debug\_6.Namespaces.exe.config
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\Namespaces\bin\Debug\_6.Namespaces.exe.config

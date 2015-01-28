@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceCalculator", "Dista
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paths", "Paths\Paths.csproj", "{3F3E61AB-82E4-4184-9D92-260326253F3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML Dispatcher", "HTML Dispatcher\HTML Dispatcher.csproj", "{45F5D2D7-6C59-4D11-9DFA-BB113755A521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Namespaces", "Namespaces\Namespaces.csproj", "{4BDBB7C3-71B3-4E76-BE16-28E93E754BEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{3F3E61AB-82E4-4184-9D92-260326253F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F3E61AB-82E4-4184-9D92-260326253F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F3E61AB-82E4-4184-9D92-260326253F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F5D2D7-6C59-4D11-9DFA-BB113755A521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F5D2D7-6C59-4D11-9DFA-BB113755A521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F5D2D7-6C59-4D11-9DFA-BB113755A521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F5D2D7-6C59-4D11-9DFA-BB113755A521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BDBB7C3-71B3-4E76-BE16-28E93E754BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDBB7C3-71B3-4E76-BE16-28E93E754BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDBB7C3-71B3-4E76-BE16-28E93E754BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDBB7C3-71B3-4E76-BE16-28E93E754BEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

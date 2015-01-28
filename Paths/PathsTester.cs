@@ -5,7 +5,7 @@
     using Paths.Data;
     using Paths.IO;
 
-    class PathsTester
+    public static class PathsTester
     {
         const string FileName = "Path3D.txt";
 
