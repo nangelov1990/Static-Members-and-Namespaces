@@ -1,0 +1,6 @@
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\BitArray\bin\Debug\BitArray.exe.config
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\BitArray\bin\Debug\BitArray.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\BitArray\obj\Debug\BitArray.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\BitArray\obj\Debug\BitArray.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\BitArray\bin\Debug\BitArray.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Static-Members-and-Namespaces\Homework\Static-Members-and-Namespaces\BitArray\obj\Debug\BitArray.csprojResolveAssemblyReference.cache
